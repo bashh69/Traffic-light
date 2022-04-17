@@ -22,7 +22,7 @@
 }
 .red {
     background-color: red;
-    opacity: 0.3;
+    opacity: 0.2;
     height: 150px;
     width: 150px;
     border-radius: 50%;
@@ -30,7 +30,7 @@
 
 .yellow {
     background-color: yellow;
-    opacity: 0.3;
+    opacity: 0.2;
     height: 150px;
     width: 150px;
     border-radius: 50%;
@@ -40,7 +40,7 @@
 
 .green {
     background-color: rgb(108, 197, 108);
-    opacity: 0.3;
+    opacity: 0.2;
     height: 150px;
     width: 150px;
     border-radius: 50%;
