@@ -1,4 +1,7 @@
-
+div{
+    background-color: black;
+    border-radius: 25px;
+}
 .extension{
     background-color: rgb(204, 204, 211);
     height: 670px;
@@ -9,7 +12,7 @@
     transform: translate(-50%, -50%);
 }
 .box{
-    background-color: rgb(59, 54, 54);
+    background-color: orange;
     position: absolute;
     height: 550px;
     width: 250px;
